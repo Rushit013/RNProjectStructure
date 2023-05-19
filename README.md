@@ -57,3 +57,20 @@ Modify the environment variables files in root folder (`.env`)
 The idea of this section is to explain how the template composition is the best and easiest to use when you try to use well-formed, architectures, especially using redux flow.
 
 The template follows a simple and convenient exporting pattern. The folder index exposes the resources, allowing to import all from the same path.
+
+---
+
+## Give a Star ⭐
+
+If you like this project then give it a **Github** star by pressing the **Star** button ⭐
+
+---
+
+#### Note: 
+I'm currently looking for good **Freelance** and **Contract-based** work **remotely (worldwide)**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://www.linkedin.com/in/rushitjivani)** or my email id **rushitjivani1999@gmail.com** 🙌
+
+---
+
+## Author 👨‍💻
+
+- **Rushit Jivani** - **[Linkedin](https://www.linkedin.com/in/rushitjivani)**, **[Medium](https://medium.com/@rushitjivani)**, **[Github](https://github.com/Rushit013)**, **[Portfolio](https://rushitjivani.netlify.app/)**  
